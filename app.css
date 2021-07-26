@@ -1,0 +1,29 @@
+html {
+  background-color: white;
+  height: 100%;
+}
+body {
+  height: inherit;
+  background-color: rgb(216, 169, 177);
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+div {
+  font-size: 10rem;
+}
+#spinner {
+  display: inline-block;
+}
+p {
+  font-size: 10rem;
+}
+button {
+  background-color: rgb(177, 202, 202);
+  font-size: 5rem;
+  display: block;
+}
+#btn {
+  display: block;
+}
